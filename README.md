@@ -1,1 +1,1 @@
-# PRO-C160-Project-Solution
+My Locality - Project 160. Using AFRAME and Cursor EVENTS with thumbnail
